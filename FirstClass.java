@@ -1,3 +1,3 @@
 public class FirstClass {
-    God3
+    today3
 }
