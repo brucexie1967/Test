@@ -1,3 +1,3 @@
 public class FirstClass {
-    new1
+    new2
 }
