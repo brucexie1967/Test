@@ -1,3 +1,3 @@
 public class FirstClass {
-    matser2
+    JUDY1
 }
